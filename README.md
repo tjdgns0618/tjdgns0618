@@ -9,7 +9,7 @@
 
 ## 🏅 Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tjdgns0618&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Inan's Github Stat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tjdgns0618&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="tjdgns0618's Github Stat" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdgns0618&layout=compact&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Langs" />
 </div>
