@@ -8,8 +8,15 @@
 
 
 ## 🏅 Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tjdgns0618&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="tjdgns0618's Github Stat" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdgns0618&layout=compact&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Langs" />
+<div align="center">
+  <a href="https://github.com/tjdgns0618">
+    <img
+      width="390"
+      src="https://my-readme-stats.vercel.app/api?username=tjdgns0618&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7"
+    />
+    <img
+      width="390"
+      src="https://my-readme-stats.vercel.app/api/top-langs/?username=tjdgns0618&layout=compact&langs_count=6&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff"
+    />
+  </a>
 </div>
