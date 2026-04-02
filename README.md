@@ -23,5 +23,5 @@
 
 <div align="center">
   <h3>🧊 Knowledge Topography (Contribution)</h3>
-  <img src="https://raw.githubusercontent.com/본인깃허브아이디/본인깃허브아이디/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 잔디 그래프"/>
+  <img src="https://raw.githubusercontent.com/tjdgns0618/tjdgns0618/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 잔디 그래프"/>
 </div>
